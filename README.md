@@ -1,3 +1,5 @@
 # hello_world
-My first repository
-Am currently learning Android Development
+
+This is my first repository.
+
+Am currently learning Android Development.
